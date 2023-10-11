@@ -1,6 +1,8 @@
 # curriculo23
 Exemplo de site de currículo
 
+[Página 2](pagina2.md)
+
 # Título
 
 ### Subtítulo 
